@@ -49,7 +49,6 @@
 
         $(thisAlert).removeClass('alert-validate');
     }
-
     
     
 
